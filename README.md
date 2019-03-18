@@ -2,8 +2,8 @@
 #===========================
 `-IKUTI DI BAWAH INI-`
 
-- > git clone `https://gitlab.com/zelebez6969/selfbot-py3.git`
-- > git clone `https://github.com/zelebez6969/selfbot-py3.git`
+- > git clone `https://gitlab.com/natha4/selfbot.py.git`
+- > git clone `https://github.com/natha4/selfbot.py.git`
 - > `cd selfbot.py`
 - > `python selfbot.py`
 
